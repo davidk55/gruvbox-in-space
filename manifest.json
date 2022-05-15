@@ -1,0 +1,34 @@
+{
+  "name": "Gruvbox in Space",
+  "description": "Good old Gruvbox mixed with the popular Firefox Dark-Space theme",
+  "homepage_url": "https://github.com/davidk55/gruvbox-in-space",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/space.gif"]
+    },
+    "properties": {
+      "additional_backgrounds_tiling": ["repeat-x"]
+    },
+    "colors": {
+      "frame": "#282828",
+      "popup": "#282828",
+      "popup_text": "#ebdbb2",
+      "popup_highlight": "#458588",
+      "tab_text": "#ebdbb2",
+      "tab_line": "rgba(0, 0, 0, 0)",
+      "tab_selected": "rgba(235, 219, 178, 0.2)",
+      "tab_background_text": "#ebdbb2",
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "toolbar_field": "#ebdbb2",
+      "toolbar_field_highlight": "#458588",
+      "toolbar_vertical_separator": "rgba(235, 219, 178, 0.3)",
+      "sidebar": "#282828",
+      "sidebar_highlight": "#458588",
+      "sidebar_text": "#ebdbb2",
+      "icons_attention": "#d79921",
+      "bookmark_text": "#ebdbb2"
+    }
+  }
+}
